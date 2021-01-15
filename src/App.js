@@ -24,6 +24,8 @@ import Announcement from './components/Announcement';
      <BrowserRouter>
      <Header/>
      <Switch>
+       <Route exact path='/home' component={Home}  />
+       <Route exact path='/acme-shop-app' component={Home}  />
        <Route exact path='/' component={Home}  />
        <Route  path='/about' component={About}  />
        <Route  path='/shop' component={Shop}  />
