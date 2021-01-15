@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/acme-shop-app/static/css/main.aebc0a2a.chunk.css",
+    "main.js": "/acme-shop-app/static/js/main.bf2d6abd.chunk.js",
+    "main.js.map": "/acme-shop-app/static/js/main.bf2d6abd.chunk.js.map",
+    "runtime-main.js": "/acme-shop-app/static/js/runtime-main.794c3f19.js",
+    "runtime-main.js.map": "/acme-shop-app/static/js/runtime-main.794c3f19.js.map",
+    "static/js/2.1ddc73fc.chunk.js": "/acme-shop-app/static/js/2.1ddc73fc.chunk.js",
+    "static/js/2.1ddc73fc.chunk.js.map": "/acme-shop-app/static/js/2.1ddc73fc.chunk.js.map",
+    "static/js/3.c963656d.chunk.js": "/acme-shop-app/static/js/3.c963656d.chunk.js",
+    "static/js/3.c963656d.chunk.js.map": "/acme-shop-app/static/js/3.c963656d.chunk.js.map",
+    "index.html": "/acme-shop-app/index.html",
+    "static/css/main.aebc0a2a.chunk.css.map": "/acme-shop-app/static/css/main.aebc0a2a.chunk.css.map",
+    "static/js/2.1ddc73fc.chunk.js.LICENSE.txt": "/acme-shop-app/static/js/2.1ddc73fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.794c3f19.js",
+    "static/js/2.1ddc73fc.chunk.js",
+    "static/css/main.aebc0a2a.chunk.css",
+    "static/js/main.bf2d6abd.chunk.js"
+  ]
+}
