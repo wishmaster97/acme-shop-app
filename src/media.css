@@ -1,0 +1,94 @@
+
+@media screen and (max-width: 991px){
+    .container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .hero-heading {
+        width: 60%;
+    }
+    .contact-hero-bg-wrapper {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: reverse;
+        -webkit-flex-direction: column-reverse;
+        -ms-flex-direction: column-reverse;
+        flex-direction: column-reverse;
+    }
+    .container.contact {
+        position: static;
+        padding-bottom: 35px;
+    }
+    .contact-block-wrapper {
+        -webkit-box-pack: justify;
+        -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+    .contact-block {
+        width: 48%;
+        margin-right: 0px;
+    }
+    .contact-wrapper {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .contact-right {
+        width: 100%;
+        padding-left: 0px;
+    }
+.shop-page-wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+.shop-page-wrapper {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+}
+@media screen and (max-width: 479px){
+    .hero-heading {
+        font-size: 30px;
+    }
+    .about-column{
+        display: flex;
+        flex-direction: column;
+       justify-content: center;
+       text-align: center;
+    }
+    
+}
+
+@media screen and (max-width: 767px)
+{
+.about-columns {
+    width: 100%;
+    margin-bottom: 45px;
+    align-items: center;
+    }
+    .about-columns-wrapper {
+        flex-wrap: wrap;
+    }
+    .owner-bios-wrapper {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+    .owner-bio {
+        width: 100%;
+        margin-bottom: 45px;
+    }
+}
